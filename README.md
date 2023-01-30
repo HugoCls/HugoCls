@@ -1,4 +1,7 @@
-### Hi there 👋
+- :books: French student at Ecole Centrale de Lille
+- :computer: Software developer
+- :thought_balloon: Cybersecurity enjoyer
+- :mag: Pentester apprentice
 
 <!--
 **HugoCls/HugoCls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
