@@ -1,6 +1,6 @@
-- :books: French student at Ecole Centrale de Lille
-- :thought_balloon: Cybersecurity enjoyer
+- :books: French student at École Centrale de Lille
+- :thought_balloon: Cybersecurity, CTFs enjoyer
 - :mag: Pentester apprentice
-- :computer: Data Analystat for Papernest
+- :computer: Data analyst for *Papernest* & Freelance software developer
 
 Contact: hugocls.pro@gmail.com
