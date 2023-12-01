@@ -1,4 +1,4 @@
-- :books: Centrale de Lille
+- :books: Centrale Lille student
 - :thought_balloon: Cybersecurity, CTFs enjoyer
 - :mag: Pentester apprentice
 - :triangular_flag_on_post: Cybersecurity intern for **mc2i**
