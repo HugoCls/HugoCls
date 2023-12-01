@@ -6,7 +6,7 @@
 Contact: hugocls.pro@gmail.com
 
 <a href="https://tryhackme.com/p/TxLast" style="display: inline-block; width: 50%;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png??" alt="TryHackMe" style="width: 33%; height: auto;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png" alt="TryHackMe" style="width: 33%; height: auto;">
 </a>
 
 <a href="https://www.root-me.org/TxLast" style="display: inline-block; width: 50%;">
