@@ -2,7 +2,7 @@
 - :thought_balloon: Cybersecurity, CTFs enjoyer
 - :mag: Pentester apprentice
 - ::triangular_flag_on_post: Cybersecurity intern for **mc2i**
-- :computer: Freelance software developer for [**Overcop**](https://overcop.com/)
+- :computer: Freelance software developer w/ [**Overcop**](https://overcop.com/)
 
 Contact: hugocls.pro@gmail.com
 
