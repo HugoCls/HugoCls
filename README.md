@@ -10,6 +10,6 @@ Contact: hugocls.pro@gmail.com
 </a>
 
 <a href="https://www.root-me.org/TxLast" style="display: inline-block; width: 50%;">
-    <img src="https://tice-education.fr/images/stories/img/rootmelogo.jpg" alt="Root-Me" style="width: 30%; height: auto;">
+    <img src="https://tice-education.fr/images/stories/img/rootmelogo.jpg" alt="Root-Me" style="width: 26%; height: auto;">
 </a>
 
