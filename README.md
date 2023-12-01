@@ -5,7 +5,7 @@
 
 Contact: hugocls.pro@gmail.com
 
-<a href="https://tryhackme.com/p/TxLast"><img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png" alt="TryHackMe" width="200" height="60"></a>
+<a href="https://tryhackme.com/p/TxLast"><img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png" alt="TryHackMe" width="350" height="85"></a>
 
-<a href="https://www.root-me.org/TxLast"><img src="https://tice-education.fr/images/stories/img/rootmelogo.jpg" alt="Root-Me" width="200" height="60"></a>
+<a href="https://www.root-me.org/TxLast"><img src="https://tice-education.fr/images/stories/img/rootmelogo.jpg" alt="Root-Me" width="350" height="85"></a>
 
