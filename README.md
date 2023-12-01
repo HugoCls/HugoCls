@@ -1,8 +1,8 @@
 - :books: French student at École Centrale de Lille
 - :thought_balloon: Cybersecurity, CTFs enjoyer
 - :mag: Pentester apprentice
-- :computer: Cybersecurity intern for **mc2i**
-- Freelance software developer [**Overcop**](https://overcop.com/)
+- ::triangular_flag_on_post: Cybersecurity intern for **mc2i**
+- :computer: Freelance software developer [**Overcop**](https://overcop.com/)
 
 Contact: hugocls.pro@gmail.com
 
