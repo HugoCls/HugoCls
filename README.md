@@ -1,5 +1,5 @@
 - :books: **Centrale Lille** student
-- :mag: CTFs enjoyer
+- :mag: Cybersecurity apprentice & CTFs enjoyer
 - :computer: Freelance software developer w/ [**Overcop**](https://overcop.com/)
 
 Contact: hugocls.pro@gmail.com
