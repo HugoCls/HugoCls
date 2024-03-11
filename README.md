@@ -1,7 +1,6 @@
 - :books: **Centrale Lille** student
 - :mag: Cybersecurity apprentice & CTFs enjoyer
-- :computer: Freelance automation developer for almost 4 years
-    --> w/ [**Overcop**](https://overcop.com/), [**Fiver**](https://www.fiverr.com/)
+- :computer: Freelance automation developer for almost 4 years w/ [**Overcop**](https://overcop.com/), [**Fiver**](https://www.fiverr.com/)
 
 Contact: hugocls.pro@gmail.com
 
