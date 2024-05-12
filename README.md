@@ -13,5 +13,5 @@ Website: <a href="https://hugocls.com/">https://hugocls.com/</a>‎ ‎ ‎Conta
 </a>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/HugoCls/assets/blob/main/github-snake.svg" alt="snake"/>
 </p>
