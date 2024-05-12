@@ -11,7 +11,8 @@ Website: <a href="https://hugocls.com/">https://hugocls.com/</a>‎ ‎ ‎Conta
 <a href="https://www.root-me.org/TxLast" style="display: inline-block; width: 50%;">
     <img src="https://tice-education.fr/images/stories/img/rootmelogo.jpg" alt="Root-Me" style="width: 24%; height: auto;">
 </a>
-
+<! --
 <p align="center">
  <img width="1000" src="https://github.com/HugoCls/assets/blob/main/github-snake.svg" alt="snake"/>
 </p>
+-- >
