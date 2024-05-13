@@ -21,7 +21,7 @@
   - [iOS](https://github.com/HugoCls/iOS-CTFs-WriteUp)
   - [Android](https://github.com/HugoCls/Android-CTFs-WriteUps)
 - Cryptographic Algorithms / Cryptanalysis
-- [LLMs Jailbreak](https://github.com/HugoCls/NLP-LLM-Jailbreaks)
+- [LLMs Jailbreaks](https://github.com/HugoCls/NLP-LLM-Jailbreaks)
 - [Captcha Solving](https://hugocls.com/captcha)
 
 ### Automation Projects
