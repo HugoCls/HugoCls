@@ -36,7 +36,7 @@
 - Various [bots and scripts](https://hugocls.com/), many documented on my website
 
 > [!NOTE]
-> The Github links for all the projects are available on their page on the website.
+> The Github links for all the projects are available on their page on [my website](https://hugocls.com/).
 
 ### Pentesting Platforms
 
