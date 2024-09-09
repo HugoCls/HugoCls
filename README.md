@@ -1,4 +1,4 @@
-- :books: **Centrale Supelec** student
+- :books: **CentraleSupélec** student
 - :mag: Cybersecurity apprentice & CTFs enjoyer
 - :computer: Freelance Automation Developer for almost 4 years w/ **Overcop**, [**Fiverr**](https://www.fiverr.com/)
 
@@ -33,7 +33,13 @@
   - [LaBrute](https://hugocls.com/labrute)
   - FFXIV
   - Flyff..
-- Various [bots and scripts](https://hugocls.com/), some documented on my website
+- Various [bots and scripts](https://hugocls.com/)
+  - [Captcha Solving](https://hugocls.com/captcha)
+  - [Ticket Sniping](https://hugocls.com/ticketing)
+  - Others..
+
+> [!NOTE]
+> The Github links for all the projects are available on their page on the website.
 
 ### Pentesting Platforms
 
