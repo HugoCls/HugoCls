@@ -33,10 +33,7 @@
   - [LaBrute](https://hugocls.com/labrute)
   - FFXIV
   - Flyff..
-- Various [bots and scripts](https://hugocls.com/)
-  - [Captcha Solving](https://hugocls.com/captcha)
-  - [Ticket Sniping](https://hugocls.com/ticketing)
-  - Others..
+- Various [bots and scripts](https://hugocls.com/), many documented on my website
 
 > [!NOTE]
 > The Github links for all the projects are available on their page on the website.
