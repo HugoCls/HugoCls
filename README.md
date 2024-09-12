@@ -20,7 +20,7 @@
 - Mobile CTFs:
   - [iOS](https://github.com/HugoCls/iOS-CTFs-WriteUp)
   - [Android](https://github.com/HugoCls/Android-CTFs-WriteUps)
-- Cryptographic Algorithms / Cryptanalysis
+- [Cryptographic Algorithms / Cryptanalysis](https://github.com/HugoCls/Cryptography)
 - [LLMs Jailbreaks](https://github.com/HugoCls/NLP-LLM-Jailbreaks)
 - [Captcha Solving](https://hugocls.com/captcha)
 
