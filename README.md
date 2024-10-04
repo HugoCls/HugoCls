@@ -23,7 +23,9 @@
 - [Cryptographic Algorithms / Cryptanalysis](https://github.com/HugoCls/Cryptography)
 - [LLMs Jailbreaks](https://github.com/HugoCls/NLP-LLM-Jailbreaks)
 - [Captcha Solving](https://hugocls.com/captcha)
-
+- Dev
+  - [C++ HTTP Server](https://hugocls.com/Cpp-HTTP-Server)
+  
 ### Automation Projects
 
 - [Overcop Scraping Automation](https://hugocls.com/overcop)
