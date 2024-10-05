@@ -41,11 +41,12 @@
 
 ### Pentesting Platforms
 
-<!-- - [Root Me](https://www.root-me.org/TxLast)<br> -->
+- [Root Me](https://www.root-me.org/TxLast)<br>
+<!-- 
 <a href="https://www.root-me.org/TxLast" style="display: inline-block; width: 100%;">
     <img src="https://github.com/HugoCls/HugoCls/assets/93578223/7db9d6ee-3375-4448-baf8-71394bdd918a" style="width: 50%; height: auto;" />
 </a>
-
+-->
 <!-- - [TryHackMe](https://tryhackme.com/p/TxLast)<br><br> -->
 <a href="https://tryhackme.com/p/TxLast" style="display: inline-block; width: 100%;">
     <img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png?" alt="TryHackMe">
