@@ -10,7 +10,7 @@
 |-----|-----|-----|-----|
 |DefCamp|top 20%|solo|09/2024|
 |404CTF|top 15%|solo|05/2024|
-|SSS|qualified|solo|05/24|
+|SSS|qualified|solo|05/2024|
 |Midnight Flag CTF|top 10%|φShell πCard2|04/2024|
 |HACKDAY|out of competition|PWN Stars 2|03/2023|
 |ZiTF|top 15%|Flag{TEAM_NAME}|03/2023|
