@@ -8,6 +8,7 @@
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
+|TRACS|40/100|team|12/2024|
 |DefCamp|top 20%|solo|09/2024|
 |404CTF|top 15%|solo|05/2024|
 |SSS|qualified|solo|05/2024|
