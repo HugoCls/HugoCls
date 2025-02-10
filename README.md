@@ -74,12 +74,6 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Pytorch" width="55" height="55" style="display: block; margin: 0 auto;"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55" style="display: block; margin: 0 auto;"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55" style="display: block; margin: 0 auto;"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55" style="display: block; margin: 0 auto;"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55" style="display: block; margin: 0 auto;"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55" style="display: block; margin: 0 auto;"/>|
 
 
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=HugoCls&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&mode=weekly">
-</p>
-
-
 ---
 
 
