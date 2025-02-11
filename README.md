@@ -1,6 +1,6 @@
 - :books: **CentraleSupélec** student
-- :mag: Cybersecurity apprentice & CTFs enjoyer
-- :computer: Freelance Automation Developer for almost 4 years w/ **Overcop**, [**Fiverr**](https://www.fiverr.com/)
+- :mag: Pentester & Cybersecurity apprentice
+- :computer: Freelance Automation Developer for almost 4 years
 
 **Website:** <a href="https://hugocls.com/">https://hugocls.com/</a>‎ ‎ ‎**Contact:** hugocls.pro@gmail.com
 
