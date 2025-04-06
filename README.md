@@ -8,6 +8,7 @@
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
+|Hack'lantique|8/40|team|03/2025|
 |TRACS|40/100|team|12/2024|
 |DefCamp|top 20%|solo|09/2024|
 |404CTF|top 15%|solo|05/2024|
