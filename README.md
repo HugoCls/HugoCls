@@ -1,5 +1,5 @@
 - :books: **CentraleSupélec** student
-- :mag: Pentester & Cybersecurity apprentice
+- :mag: Pentester for @XMCO & Cybersecurity apprentice
 - :computer: Freelance Automation Developer for almost 4 years
 
 **Website:** <a href="https://hugocls.com/">https://hugocls.com/</a>‎ ‎ ‎**Contact:** hugocls.pro@gmail.com
