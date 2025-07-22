@@ -22,8 +22,8 @@
 
 - [CTFs & Pentesting](https://hugocls.com/ctf)
 - Mobile CTFs:
-  - [iOS](https://github.com/HugoCls/iOS-CTFs-WriteUp)
-  - [Android](https://github.com/HugoCls/Android-CTFs-WriteUps)
+  - [iOS](https://github.com/HugoCls/CTFs-WriteUps/tree/main/Platforms/iOS-WriteUps)
+  - [Android](https://github.com/HugoCls/CTFs-WriteUps/tree/main/Platforms/Android-WriteUps)
 - [Cryptographic Algorithms / Cryptanalysis](https://github.com/HugoCls/Cryptography)
 - [LLMs Jailbreaks](https://github.com/HugoCls/NLP-LLM-Jailbreaks)
 - [Captcha Solving](https://hugocls.com/captcha)
