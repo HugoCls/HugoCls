@@ -33,7 +33,7 @@
 
 - [Overcop Scraping Automation](https://hugocls.com/overcop)
 - Many Games boting including
-  - [PokerGame GGP](https://hugocls.com/poker)
+  - [PokerGame](https://hugocls.com/poker)
   - [Bombcrypto](https://hugocls.com/bombcrypto)
   - [League of Legends](https://hugocls.com/league)
   - [LaBrute](https://hugocls.com/labrute)
