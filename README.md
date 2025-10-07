@@ -46,18 +46,10 @@
 
 ### Pentesting Platforms
 
-- [Root Me](https://www.root-me.org/TxLast)<br>
-<!-- 
-<a href="https://www.root-me.org/TxLast" style="display: inline-block; width: 100%;">
-    <img src="https://github.com/HugoCls/HugoCls/assets/93578223/7db9d6ee-3375-4448-baf8-71394bdd918a" style="width: 50%; height: auto;" />
-</a>
--->
-- [TryHackMe](https://tryhackme.com/p/TxLast)<br><br>
-<!-- 
-<a href="https://tryhackme.com/p/TxLast" style="display: inline-block; width: 100%;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TxLast.png?" alt="TryHackMe">
-</a>
--->
+| [HackTheBox](https://app.hackthebox.com/profile/2102627) | PortSwigger | [Root Me](https://www.root-me.org/TxLast) | [TryHackMe](https://tryhackme.com/p/TxLast) |
+|:------:|:------:|:------:|:------:|
+| <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" title="HackTheBox" alt="HackTheBox" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MRvtmJH273KKz6eqqGTZHtTIF8SDigD6sA&s" title="PortSwigger" alt="PortSwigger" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiybnQOtH6qXT9v0zrTlYbzYLrQX3wB721xA&s" title="Root Me" alt="Root Me" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://github.com/HugoCls/assets/blob/main/screenshot_295.png" title="TryHackMe" alt="TryHackMe" width="55" height="55" style="display: block; margin: 0 auto;"/> 
+
 ### Pentesting tools
 
 | Kali | Burp Suite | VS Code | ffuf | CyberChef | Postman | sqlmap | Hashcat | John | Ghidra |
@@ -66,7 +58,7 @@
 
 | Nmap | Impacket | BloodHound | LINpeas | AndroidStudio | adb | Frida | 
 |:----:|:----:|:------:|:------:|:------:|:------:|:------:|
-| <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1.png" title="Nmap" alt="Nmap" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://avatars.githubusercontent.com/u/117669217?s=48&v=4" title="Impacket" alt="Impacket" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://www.helviojunior.com.br/assets/2023/08/bloodhound.png" title="BloodHound" alt="BloodHound" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnwNss_MPNIMEmq2L9RqoKAaIOAK2xwXHyg&s" title="LINpeas" alt="LINpeas" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" title="Android Studio" alt="Android Studio" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://images.icon-icons.com/1369/PNG/512/-adb_90476.png" title="adb" alt="adb" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://frida.re/img/logotype.svg" title="Frida" alt="Frida" width="55" height="55" style="display: block; margin: 0 auto;"/> 
+| <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1.png" title="Nmap" alt="Nmap" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://avatars.githubusercontent.com/u/117669217?s=48&v=4" title="Impacket" alt="Impacket" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://www.helviojunior.com.br/assets/2023/08/bloodhound.png" title="BloodHound" alt="BloodHound" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqnwNss_MPNIMEmq2L9RqoKAaIOAK2xwXHyg&s" title="LINpeas" alt="LINpeas" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png" title="Android Studio" alt="Android Studio" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://github.com/HugoCls/assets/blob/main/screenshot_294.png" title="adb" alt="adb" width="55" height="55" style="display: block; margin: 0 auto;"/> | <img src="https://frida.re/img/logotype.svg" title="Frida" alt="Frida" width="55" height="55" style="display: block; margin: 0 auto;"/> 
 
 ### Languages
 
